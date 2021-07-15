@@ -6,4 +6,4 @@ pytorch-lightning
 wandb
 mypy
 hydra-core
-omegaconf
+omegaconf==2.0.6
