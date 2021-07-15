@@ -2,7 +2,7 @@ hydra:
   run:
     dir: .
   output_subdir: null
-  job_logging: null
+  job_logging: true
   hydra_logging: null
 
 name: code2seq
